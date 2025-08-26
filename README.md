@@ -68,7 +68,7 @@ A financial research agent that performs complex analysis on stocks by:
 3. Executing specialized sub-agents in parallel to gather different types of data
 4. Combining the results to provide a comprehensive analysis
 
-<img src="./media/flow-agent-example.png" alt="Agent Workflow Example" width="600" />
+<img src="./media/flow-agent-example.png" alt="Agent Workflow Example" width="900" />
 
 ## Deployment
 
